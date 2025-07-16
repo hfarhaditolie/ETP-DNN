@@ -1,7 +1,7 @@
 <div align="center">
 
 # Swin Transformer and Generative Adversarial Networks for Accurate Battery Electrode Thickness Prediction in Manufacturing Using Ultrasound Sensing
-[**Hamidreza Farhadi Tolie**](https://scholar.google.com/citations?user=nzCbjWIAAAAJ&hl=en&authuser=1)<sup>a</sup> · [**Erdogan Guk**]([https://scholar.google.co.uk/citations?user=Vsx9P-gAAAAJ&hl=en](https://scholar.google.com/citations?user=29k7kPAAAAAJ&hl=en&oi=ao))<sup>a</sup> · [**James Marco**]([https://scholar.google.co.uk/citations?user=m3-aOvsAAAAJ&hl=en](https://scholar.google.com/citations?user=icR08CQAAAAJ&hl=en&oi=ao))<sup>b</sup>
+[**Hamidreza Farhadi Tolie**](https://scholar.google.com/citations?user=nzCbjWIAAAAJ&hl=en&authuser=1)<sup>a, b</sup> · [**Erdogan Guk**](https://scholar.google.com/citations?user=29k7kPAAAAAJ&hl=en&oi=ao)<sup>a, b</sup> · [**James Marco**](https://scholar.google.com/citations?user=icR08CQAAAAJ&hl=en&oi=ao))<sup>a, b</sup> · [**Mona Faraji Niri**](https://scholar.google.com/citations?user=1PK7IocAAAAJ&hl=en&oi=ao)<sup>a, b</sup>
 
 <sup>a</sup> National Subsea Centre, Robert Gordon University, UK
 
