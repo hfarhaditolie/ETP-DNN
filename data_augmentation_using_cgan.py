@@ -238,9 +238,9 @@ def generate_samples(class_for, n_samples=20):
         samples = generator(noise, labels).cpu().numpy()
     return scaler.inverse_transform(samples)
 
-# for i in range(n_classes):
-#     feats = generate_samples(i)
-#     np.save(f"synthetic_class_{i}.npy", feats)
+for i in range(n_classes):
+    feats = generate_samples(i)
+    np.save(f"synthetic_class_{i}.npy", feats)
 
 # Example visualization of generated features
 features_class_0 = generate_samples(0)
