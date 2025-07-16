@@ -25,7 +25,6 @@ This repository provides the PyTorch implementation of the electrode thickness p
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [Citation](#citation)
 - [Feedback](#feedback)
