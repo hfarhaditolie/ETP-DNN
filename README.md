@@ -9,13 +9,13 @@
 
 <hr>
 
-<a href=''><img src='https://img.shields.io/badge/%20DICAM%20-%20Paper?label=Manuscript&labelColor=(255%2C0%2C0)&color=red' alt='Project Page'></a>
+<a href=''><img src='https://img.shields.io/badge/%20ETP-DNN%20-%20Paper?label=Manuscript&labelColor=(255%2C0%2C0)&color=red' alt='Project Page'></a>
 
 <br>
 
 </div>
 
-This repository contains the PyTorch implementation of the electrode thickness prediction and synthetic data generation models provided by the authors. The manuscript is available [here](https://www.sciencedirect.com/science/article/pii/S0925231224003564).
+This repository provides the PyTorch implementation of the electrode thickness prediction model and the synthetic data generation framework developed by the authors. The associated manuscript is available [here]().
 
 
 ## Abstract
