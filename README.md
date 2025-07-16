@@ -31,26 +31,6 @@ This repository provides the PyTorch implementation of the electrode thickness p
 - [Acknowledgement](#acknowledgement)
 - [License](#license)
 
-## Usage
-To utilize the DICAM method for training, please follow these steps:
-
-1. Download the UIEB and EUVP datasets from their respective sources.
-   - For UIEB dataset, refer to the instructions provided in [UIEB dataset README](https://github.com/hfarhaditolie/DICAM/blob/main/Data/UIEB/readme.md).
-   - For EUVP dataset, refer to the instructions provided in [EUVP dataset README](https://github.com/hfarhaditolie/DICAM/blob/main/Data/EUVP/readme.md).
-   
-2. Place the downloaded datasets in the 'Data/' directory of the DICAM repository, following the descriptions provided in each dataset's README.
-
-3. Navigate to the 'UIEB/' directory for UIEB dataset or 'EUVP/' directory for EUVP dataset.
-
-4. Run the _train_uieb.py_ script for UIEB dataset or _train_euvp.py_ script for EUVP dataset.
-
-```bash
-python3 UIEB/train_uieb.py
-```
-```bash
-python3 EUVP/train_euvp.py
-```
-
 ## Feedback
 If you have any enquires or feedback, please do not hesitate to contact us via @(hamidreza.farhadi-tolie@warwick.ac.uk, h.farhaditolie@gmail.com)
 
