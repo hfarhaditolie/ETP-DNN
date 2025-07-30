@@ -23,6 +23,10 @@ This repository provides the PyTorch implementation of the electrode thickness p
 > In battery manufacturing, precise electrode thickness measurement is essential for ensuring quality. Existing methods such as mechanical calipers and optical sensors, are limited by their ability to provide continuous, accurate in-line monitoring and suffer from surface sensitivity and implementation/maintenance costs. This study proposes a novel approach that integrates ultrasound-based sensing with a newly designed deep neural network to overcome these limitations. To further enhance prediction accuracy, a conditional generative adversarial network (cGAN) is introduced to generate synthetic data reflective of electrode-specific ultrasound signal characteristics, improving model generalisation. The proposed framework offers a real-time, continuous, non-contact and high-precision solution for electrode thickness monitoring, significantly reducing the need for recalibration. The experimental data collected from a battery production pilot-line confirms the capability. As one of the first works to combine ultrasound sensing with deep generative modelling for this application, it demonstrates the potential for cost-effective, scalable implementation in support of low-carbon battery manufacturing. The source code is publicly available at https://github.com/hfarhaditolie/ETP-DNN/.
 ---
 
+![Image Description](https://ars.els-cdn.com/content/image/1-s2.0-S0378775325017550-gr2_lrg.jpg)
+
+![Image Description](https://ars.els-cdn.com/content/image/1-s2.0-S0378775325017550-gr3_lrg.jpg)
+
 ## Table of Contents
 
 - [Usage](#usage)
