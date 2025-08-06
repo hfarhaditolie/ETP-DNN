@@ -50,7 +50,12 @@ python3 mainDLCathode.py # Run the DL model
 This section provides a workflow to generate synthetic data using CGAN and fine-tune DL models for both **cathode** and **anode** datasets.
 
 #### 📁 Directory Structure
-<pre lang="markdown"> ## 📁 Directory Structure ``` ├── data_augmentation_using_cgan.py ├── Fine Tuning/ │ ├── trainCathode.py │ ├── FineTuneCathode.py │ ├── trainAnode.py │ └── FineTuneAnode.py ``` </pre>
+├── data_augmentation_using_cgan.py
+├── Fine Tuning/
+│ ├── trainCathode.py
+│ ├── FineTuneCathode.py
+│ ├── trainAnode.py
+│ └── FineTuneAnode.py
 
 🔧 Step-by-Step Instructions
 
