@@ -51,10 +51,15 @@ This section provides a workflow to generate synthetic data using CGAN and fine-
 
 #### 📁 Directory Structure
 ├── data_augmentation_using_cgan.py
+
 ├── Fine Tuning/
+
 │   ├── trainCathode.py
+
 │   ├── FineTuneCathode.py
+
 │   ├── trainAnode.py
+
 │   └── FineTuneAnode.py
 
 🔧 Step-by-Step Instructions
