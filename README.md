@@ -45,11 +45,11 @@ python3 mainMLCathode.py # Run the ML model
 python3 mainDLCathode.py # Run the DL model
 ```
 
-# Fine-Tuning DL Models Using Synthetic Data
+### Fine-Tuning DL Models Using Synthetic Data
 
 This section provides a workflow to generate synthetic data using CGAN and fine-tune DL models for both **cathode** and **anode** datasets.
 
-## 📁 Directory Structure
+#### 📁 Directory Structure
 ├── data_augmentation_using_cgan.py
 ├── Fine Tuning/
 │   ├── trainCathode.py
@@ -59,23 +59,23 @@ This section provides a workflow to generate synthetic data using CGAN and fine-
 
 🔧 Step-by-Step Instructions
 
-### 1. Generate Synthetic Data
+#### 1. Generate Synthetic Data
 Use the CGAN-based script to create synthetic data for both cathode and anode datasets:
 
 ```bash
 python3 data_augmentation_using_cgan.py
 ```
-### 2. Train Model on Synthetic Data
+#### 2. Train Model on Synthetic Data
 ```bash
 python3 Fine Tuning/trainCathode.py # Cathode
 python3 Fine Tuning/trainAnode.py # Anode
 ```
-### 3. Fine-Tune Model on Real Data
+#### 3. Fine-Tune Model on Real Data
 ```bash
 python3 Fine Tuning/FineTuneCathode.py # Cathode
 python3 Fine Tuning/FineTuneAnode.py # Anode
 ```
-## 📌 Notes
+#### 📌 Notes
 
 - ✅ Ensure synthetic data is generated **before** training the model.
 - 🔁 Fine-tuning should always follow training on synthetic data.
