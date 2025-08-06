@@ -35,6 +35,24 @@ This repository provides the PyTorch implementation of the electrode thickness p
 - [Acknowledgement](#acknowledgement)
 - [License](#license)
 
+
+## Citation
+```bash
+@article{FARHADITOLIE2025237919,
+title = {Swin Transformer and generative adversarial networks for accurate battery electrode thickness prediction in manufacturing using ultrasound sensing},
+journal = {Journal of Power Sources},
+volume = {655},
+pages = {237919},
+year = {2025},
+issn = {0378-7753},
+doi = {https://doi.org/10.1016/j.jpowsour.2025.237919},
+url = {https://www.sciencedirect.com/science/article/pii/S0378775325017550},
+author = {Hamidreza {Farhadi Tolie} and Erdogan Guk and James Marco and Mona {Faraji Niri}},
+keywords = {Battery manufacturing, Ultrasonic sensing, Machine learning, Deep neural networks, Process optimisation, Quality control},
+abstract = {In battery manufacturing, precise electrode thickness measurement is essential for ensuring quality. Existing methods such as mechanical calipers and optical sensors, are limited by their ability to provide continuous, accurate in-line monitoring and suffer from surface sensitivity and implementation/maintenance costs. This study proposes a novel approach that integrates ultrasound-based sensing with a newly designed deep neural network to overcome these limitations. To further enhance prediction accuracy, a conditional generative adversarial network (cGAN) is introduced to generate synthetic data reflective of electrode-specific ultrasound signal characteristics, improving model generalisation. The proposed framework offers a real-time, continuous, non-contact and high-precision solution for electrode thickness monitoring, significantly reducing the need for recalibration. The experimental data collected from a battery production pilot-line confirms the capability. As one of the first works to combine ultrasound sensing with deep generative modelling for this application, it demonstrates the potential for cost-effective, scalable implementation in support of low-carbon battery manufacturing. The source code is publicly available at https://github.com/hfarhaditolie/ETP-DNN/.}
+}
+```
+
 ## Feedback
 If you have any enquires or feedback, please do not hesitate to contact us via @(hamidreza.farhadi-tolie@warwick.ac.uk, h.farhaditolie@gmail.com)
 
