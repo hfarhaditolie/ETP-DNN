@@ -35,7 +35,15 @@ This repository provides the PyTorch implementation of the electrode thickness p
 - [Acknowledgement](#acknowledgement)
 - [License](#license)
 
+## Usage
+To run the machine learning (ML) and deep learning (DL) models, simply execute the corresponding main scripts. Each dataset has its own associated ML and DL scripts, which handle both training and testing when run.
 
+For example, to run the models for the cathode dataset:
+
+```bash
+python3 mainMLCathode.py # Run the ML model
+python3 mainDLCathode.py # Run the DL model
+```
 ## Citation
 ```bash
 @article{FARHADITOLIE2025237919,
